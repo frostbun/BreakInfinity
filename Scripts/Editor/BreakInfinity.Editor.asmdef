@@ -1,0 +1,10 @@
+{
+  "name": "BreakInfinity.Editor",
+  "overrideReferences": true,
+  "references": [
+    "BreakInfinity"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
